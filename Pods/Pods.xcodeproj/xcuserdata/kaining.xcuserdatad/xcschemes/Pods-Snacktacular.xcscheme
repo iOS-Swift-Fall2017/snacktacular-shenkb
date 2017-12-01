@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7B6BC157CC46379ABE8F2D5FFB649E1C"
+               BlueprintIdentifier = "B094A2F96BD6E69784DED3FB38922288"
                BuildableName = "Pods_Snacktacular.framework"
                BlueprintName = "Pods-Snacktacular"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -47,7 +47,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7B6BC157CC46379ABE8F2D5FFB649E1C"
+            BlueprintIdentifier = "B094A2F96BD6E69784DED3FB38922288"
             BuildableName = "Pods_Snacktacular.framework"
             BlueprintName = "Pods-Snacktacular"
             ReferencedContainer = "container:Pods.xcodeproj">
