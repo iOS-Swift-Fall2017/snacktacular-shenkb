@@ -20,9 +20,6 @@ class PlaceListViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        places.append((PlaceData(placeName: "Shake Shack", address: "The Street - Chestnut Hill", coordinate: CLLocationCoordinate2D(), postingUserID: "")))
-        places.append((PlaceData(placeName: "The Eagle's Nest", address: "McElroy Commons", coordinate: CLLocationCoordinate2D(), postingUserID: "")))
-        
         tableView.delegate = self
         tableView.dataSource = self
 
